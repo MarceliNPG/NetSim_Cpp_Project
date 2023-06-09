@@ -8,6 +8,7 @@
 *.obj
 
 # shitty libraries
+google_tests/lib
 cmake-build-debug
 .idea
 
