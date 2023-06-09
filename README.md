@@ -1,4 +1,4 @@
-# NetworkSimulation – Industrial network simulation (C++)
+# NetSim – Industrial network simulation (C++)
 
 This group project was part of Advanced Object Oriented Programming course at AGH UST.
 
