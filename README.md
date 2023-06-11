@@ -8,5 +8,4 @@ The goal of this project was to design system which can be used for modeling and
 To create that system, we used C++ language with object-oriented programming. Completing this task had to consolidate our knowlege about that language and OOP principles.  
 
 ## Detailed description 
-For whole task description you can visit AGH Machine Vision Group (course trainer) website:
-https://home.agh.edu.pl/~mdig/dokuwiki/doku.php?id=start
+For whole task description you can check "netsim_symulacja_sieci_c.pdf" sheet.
